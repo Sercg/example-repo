@@ -11,6 +11,12 @@ GitStatus:
 GitAdd:
 	git add file_name
 
+GitCheckout:
+	git checkout file_name
+
+GitDiff:
+	git diff filename
+
 GitCommit:
 	git commit -m "Commit Message"
 
